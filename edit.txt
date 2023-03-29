@@ -1,3 +1,3 @@
 kuro
 ao
-ao2
+kuro2
